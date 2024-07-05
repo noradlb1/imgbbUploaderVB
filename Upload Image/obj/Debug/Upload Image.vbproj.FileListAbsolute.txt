@@ -1,0 +1,15 @@
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\bin\Debug\Upload Image.exe.config
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\bin\Debug\Upload Image.exe
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\bin\Debug\Upload Image.pdb
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\bin\Debug\Upload Image.xml
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\obj\Debug\Upload Image.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\obj\Debug\Upload_Image.Form1.resources
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\obj\Debug\Upload_Image.Resources.resources
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\obj\Debug\Upload Image.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\obj\Debug\Upload Image.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\obj\Debug\Upload Image.vbproj.CopyComplete
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\obj\Debug\Upload Image.exe
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\obj\Debug\Upload Image.xml
+C:\Users\MONSTERMC\source\repos\Upload Image\Upload Image\obj\Debug\Upload Image.pdb
